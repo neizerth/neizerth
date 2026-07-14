@@ -47,13 +47,6 @@ PostgreSQL • Docker • Redis • GitHub Actions
 
 ---
 
-## Featured Projects
-
-* [Arkham Divider](https://github.com/neizerth/ArkhamDivider) — high-performance PDF generator
-* [Arkham Investigator](https://github.com/neizerth/ArkhamInvestigator) — offline-first React Native app
-
----
-
 ## Connect
 
 [Telegram](https://t.me/neizerth) • [LinkedIn](https://www.linkedin.com/in/vladimir-yazykov-4556a287) • [Email](neizerth@gmail.com)
