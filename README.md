@@ -2,8 +2,6 @@
   <img src="assets/poster.png" alt="Vladimir Yazykov — Software Architect, Full Stack Engineer, Educator" width="100%" />
 </p>
 
-# Hi, I'm Vladimir 
-
 **Senior Fullstack Engineer • Software Architect • Educator**
 
 Building production software since 2007.
